@@ -12,6 +12,9 @@ python3 -m http.server 8000
 
 Then open [http://localhost:8000](http://localhost:8000). Serving the site over HTTP also lets the browser persist language and theme preferences reliably.
 
+## Version
+v1.0.0
+
 ## Features
 
 - Responsive company profile layout
